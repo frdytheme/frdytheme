@@ -1,7 +1,10 @@
 Hi there 👋
 안녕하세요 프론트엔드 신입 개발자를 꿈꾸는 김건호입니다.
 
-[포트폴리오 바로가기](https://frdytheme.github.io/Portfolio/)
+[<img src="https://img.shields.io/badge/포트폴리오 바로가기-132043?style=for-the-badge&logo=About.me&logoColor=F1B4BB"/>](https://frdytheme.github.io/Portfolio/)
+
+
+[<img src="https://img.shields.io/badge/공부기록 바로가기-ffffff?style=for-the-badge&logo=Notion&logoColor=black"/>](https://www.notion.so/frdytheme/a3fa1875a4cc4bb6869386f39ab80065?v=9063f63fb1a544ebbbdbf00395819bc6)
 
 
 ### ⌨️ Skills
